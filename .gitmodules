@@ -1,6 +1,3 @@
-[submodule "mlutils"]
-	path = mlutils
-	url = git@github.com:DSciLab/mlutils.git
 [submodule "mlbox"]
 	path = mlbox
 	url = git@github.com:DSciLab/mlbox.git
